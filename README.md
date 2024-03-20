@@ -1,5 +1,15 @@
-### Hi there 👋
+### :computer: Hello and welcome! :computer:
 
+My name is Trevor Irving and I am a recently (returning) Software Engineer, after 11 years of experience in the Food Safety / Quality Assurance world. 
+
+Recently I graduated from :school: App Academy :school: from their full-stack software engineer bootcamp, and I am looking at being a software developer professionally. With the ability to quickly disseminate information, read and apply documentation I will be able to hit the ground running for my next company! :fire:
+
+### :briefcase: My programming languages :computer:
+
+
+
+### :star2: My Stats!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmusedPocket)](https://git.io/streak-stats)
 <!--
 **AmusedPocket/AmusedPocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
