@@ -1,8 +1,8 @@
 ### :computer: Hello and welcome! :computer:
 
-My name is Trevor Irving and I am a recently (returning) Software Engineer, after 11 years of experience in the Food Safety / Quality Assurance world. 
+My name is Trevor Irving and I am a Software Enginer with over 11 years of experience in Quality Assurance across eight different industries. 
 
-Recently I graduated from :school: App Academy :school: from their full-stack software engineer bootcamp, and I am looking at being a software developer professionally. With the ability to quickly disseminate information, read and apply documentation I will be able to hit the ground running for my next company! :fire:
+My tech stack is below:
 
 ### :briefcase: My programming languages :computer:
 <div>
