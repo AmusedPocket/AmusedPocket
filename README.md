@@ -1,5 +1,18 @@
 ### :computer: Hello and welcome! :computer:
 
+<div id="header" align="center">
+<div id="badges">
+<a href="https://www.linkedin.com/in/trevirv/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://amusedpocket.github.io/">
+ <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio Badge"/>
+ </a>
+<a href="https://amusedpocket.github.io/assets/TrevorIrving2024.pdf">
+ <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge" alt="Resume Badge"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=AmusedPocket&color=blue&style=plastic"/>
+
 My name is Trevor Irving and I am a Software Enginer with over 11 years of experience in Quality Assurance across eight different industries. 
 
 
