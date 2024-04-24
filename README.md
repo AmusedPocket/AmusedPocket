@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge" alt="Resume Badge"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AmusedPocket&color=blue&style=plastic"/>
+</div>
 
 My name is Trevor Irving and I am a Software Enginer with over 11 years of experience in Quality Assurance across eight different industries. 
 
