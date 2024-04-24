@@ -2,7 +2,7 @@
 
 My name is Trevor Irving and I am a Software Enginer with over 11 years of experience in Quality Assurance across eight different industries. 
 
-My tech stack is below:
+
 
 ### :briefcase: My programming languages :computer:
 <div>
