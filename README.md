@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=AmusedPocket&color=blue&style=plastic"/>
 </div>
 
-My name is Trevor Irving and I am a Software Enginer with over 11 years of experience in Quality Assurance across eight different industries. 
+My name is Trevor Irving and I am a Software Enginer with over 12 years of experience in Quality Assurance across eight different industries. 
 
 
 
